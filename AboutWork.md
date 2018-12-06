@@ -15,12 +15,10 @@
 
 เช่น หากมีการแบ่งกลุ่มข้อมูลโดยแบ่งกลุ่มตามจังหวัด ก็จะสามารถใช้ Visualization ที่เป็น Map หรือแผนที่ที่สามารถแสดงความแตกต่างของผลลัพธ์ได้
 
-![แผนที่ระดับ จังหวัด](assets/aboutWork/map_pro.png)
+![แผนที่ระดับ จังหวัด](https://raw.githubusercontent.com/angkarn/aboutWork/master/assets/screenshot1.png)
 
 
  และยังมีฟังชั่นที่สามารถ Drilldown หรือเป็นการคลิดเลือกที่จังหวัดใดและ
-
-![](assets/aboutWork/map_pro.png)
 
 
 ##### ตัวอย่าง Visualization
