@@ -12,7 +12,7 @@
 
 ### Visualization
 สร้าง Visualize หรือกราฟที่สามารถรองรับข้อมูลที่เข้ามาในระบบ และรองรับการใช้เงื่อนไขในการแสดงผลข้อมูลในแต่ละรูปแบบ โดยส่วน Visualize นั้นจะใช้ Library ของ Highchart  โดย ณ ตอนนี้กราฟที่ได้พัฒนา คือ Pie, Bar, Line, Map, Scatter, TreeMap
-<div> <img src="assets/vsl_icon.png" width="500" /></div>
+<div> <img src="https://github.com/angkarn/aboutWork/raw/master/assets/vsl_icon.png" width="500" /></div>
 
 โดยสามารถเข้าถึงได้จาก หน้า [Open-D](https://api.data.go.th/opend "Open-D") เพื่อค้นหาชุดข้อมูลใดๆ และเข้าไปที่ API จากนั้นใส่เงื่อนไขในแบบที่ผู้ใช้ต้องการ เมื่อกดค้นหาจะมี icon ของ Visualize แต่ละแบบที่สามารถเลือกดูได้ปรากฏขึ้นมา
 โดยในแต่ละกราฟจะมีการพัฒนาให้สามารถรองรับข้อมูลใดๆ ในฐานข้อมูล และมีวิธีการตรวจสอบข้อมูลที่เข้ามาและการประมวลผลข้อมูลที่แตกต่างกัน
@@ -30,7 +30,7 @@
 
 และเมื่อข้อมูลนั้นมีถึงระดับอำเภอ หรือแม้แต่ตำบล ก็มีฟังชั่นที่สามารถ Drilldown หรือเป็นการคลิกเลือกที่จังหวัดและสามารถแสดงอำเภอทั้งหมดในจังหวัดนั้น หรือ คลิกที่อำเภอเพื่อแสดงตำบลทั้งหมดในอำเภอพร้อมข้อมูลที่ผู้ใช้ต้องการ
 
-<div> <div class='gif'> <img alt="Map Drilldown" src="assets/map_drilldown_450.gif" width="480" /></div></div>
+<div> <div class='gif'> <img alt="Map Drilldown" src="https://github.com/angkarn/aboutWork/raw/master/assets/map_drilldown_450.gif" width="480" /></div></div>
 
 <hr/><br/>
 
@@ -70,7 +70,7 @@ TreeMap เป็นการแบ่งกลุ่มของข้อมู
 
 ##### วิดีโอตัวอย่างการใช้งาน
 <video width="100%" height="400" controls>
-  <source src="assets/dashboard.mp4" type="video/mp4">
+  <source src="https://github.com/angkarn/aboutWork/raw/master/assets/dashboard.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
