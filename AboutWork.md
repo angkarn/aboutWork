@@ -46,7 +46,7 @@
 เช่น เจอข้อมูลอื่นในชุดข้อมูลเดียวกัน คือ 16/4/2561 ก็จะตรวจสอบได้ทันทีว่า ข้อมูลชุดนี้ใช้รูปแบบของวันที่รูปแบบใด
 โดยจะตรวจสอบผ่าน javascript โดยมีการใช้ libraries เป็นตัวช่วยอย่าง momentjs
 
-<iframe src="https://opend.openservice.in.th/opendd/Visualization/line_date?dsname=vir_56_1520907151&path=vir_56_1520907151&aggf%5b%5d=sum&agg_prop%5b%5d=col_10&groupby%5b%5d=col_2&loadAll=1&hideMn=1" style="width: 100%; height: 480px;"></iframe>
+<iframe src="https://opend.openservice.in.th/opend/Visualization/line_date?dsname=vir_56_1520907151&path=vir_56_1520907151&aggf%5b%5d=sum&agg_prop%5b%5d=col_10&groupby%5b%5d=col_2&loadAll=1&hideMn=1" style="width: 100%; height: 480px;"></iframe>
 <hr/><br/>
 <iframe src="https://opend.openservice.in.th/opend/Visualization/line_date_Mgroup?dsname=vir_56_1520907151&amp;path=vir_56_1520907151&amp;aggf%5b%5d=avg&amp;agg_prop%5b%5d=col_7&amp;orderby=desc&amp;groupby%5b%5d=col_2&amp;groupby%5b%5d=col_3&amp;date=col_2&amp;loadAll=1&amp;3d=0&amp;limit=5000&amp;hideMn=1" style="width: 100%; height: 480px;"></iframe>
 
